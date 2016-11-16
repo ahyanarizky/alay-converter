@@ -1,6 +1,6 @@
 {
   "name": "alay-converter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Converter normal words to 4l4y w0rd5",
   "main": "index.js",
   "scripts": {
