@@ -1,0 +1,23 @@
+{
+  "name": "alay-converter",
+  "version": "1.0.0",
+  "description": "Converter normal words to 4l4y w0rd5",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahyanarizky/alay-converter.git"
+  },
+  "keywords": [
+    "converter",
+    "npm"
+  ],
+  "author": "Ahyana Rizky Pratama",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ahyanarizky/alay-converter/issues"
+  },
+  "homepage": "https://github.com/ahyanarizky/alay-converter#readme"
+}
